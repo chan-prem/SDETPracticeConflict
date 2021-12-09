@@ -10,7 +10,7 @@ public class PracticeConflict {
 	public void practiceConflict() {
 		
 		System.out.println("Weekend");
-		System.out.println("LIamPaine");
+		System.out.println("LIamPain");
 		
 	}
 }
