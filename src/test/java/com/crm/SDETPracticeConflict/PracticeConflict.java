@@ -8,5 +8,7 @@ public class PracticeConflict {
 	public void practiceConflict() {
 		
 		System.out.println("Prem is making a change");
+		
+		System.out.println("COllaborator has made a change");
 	}
 }
