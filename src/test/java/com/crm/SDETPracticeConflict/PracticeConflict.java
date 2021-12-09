@@ -7,7 +7,7 @@ public class PracticeConflict {
 	@Test
 	public void practiceConflict() {
 		
-		System.out.println("Weekend");
+		System.out.println("Pray for me");
 		
 	}
 }
