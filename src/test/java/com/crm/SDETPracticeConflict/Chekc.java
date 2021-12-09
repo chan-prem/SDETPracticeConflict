@@ -7,6 +7,6 @@ public class Chekc {
 	
 	@Test
 	public void checkk() {
-		System.out.println("yeap");
+		System.out.println("nope changed by chan2");
 	}
 }
