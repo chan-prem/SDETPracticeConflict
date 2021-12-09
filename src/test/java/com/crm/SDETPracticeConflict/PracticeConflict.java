@@ -7,6 +7,6 @@ public class PracticeConflict {
 	@Test
 	public void practiceConflict() {
 		
-		System.out.println("CHan2 is making a change");
+		System.out.println("Prem is making a change");
 	}
 }
