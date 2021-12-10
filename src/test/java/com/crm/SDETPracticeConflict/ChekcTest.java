@@ -2,7 +2,7 @@ package com.crm.SDETPracticeConflict;
 
 import org.testng.annotations.Test;
 
-public class Chekc {
+public class ChekcTest {
 
 	
 	@Test

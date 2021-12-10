@@ -2,7 +2,7 @@ package com.crm.SDETPracticeConflict;
 
 import org.testng.annotations.Test;
 
-public class PracticeConflict {
+public class PracticeConflictTest {
 	
 	@Test
 	public void practiceConflict() {
